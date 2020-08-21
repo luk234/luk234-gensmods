@@ -1,0 +1,17 @@
+add bb.ini
+add bb3a.ini
+add bb3b.ini
+add bb3c.ini
+add bb3d.ini
+add BlackEyes.ar.00
+add BrownEyes.ar.00
+add cream.json
+add CreamActionCommon.ar.00
+add CreamAssets.ar.00
+add CreamVoice.ar.00
+add dummy.ar.00
+add ModernClassicCream.ar.00
+add ModernSpringCream.ar.00
+add Sonic.arl
+add SonicActionCommon.arl
+add mod.ini
