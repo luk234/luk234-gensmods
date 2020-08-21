@@ -1,0 +1,54 @@
+{
+   "Groups":[
+      {
+         "Name":"CPKs",
+         "DisplayName":"Cream over Modern Sonic",
+         "Elements":[
+            {
+               "Name":"disk\\bb3.cpk",
+               "Description":[
+                  "Select a model and eye color."
+               ],
+               "DisplayName":"Model Select",
+               "Type":"disk\\bb3.cpk",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"bb3a.ini"
+            }
+         ]
+      }
+   ],
+   "Enums":{
+      "disk\\bb3.cpk":[
+         {
+            "DisplayName":"Cream (Brown eyes)",
+            "Description":[
+               "Cream's original outfit."
+            ],
+            "Value":"bb3a.ini"
+         },
+         {
+            "DisplayName":"Cream (Black eyes)",
+            "Description":[
+               "Cream's original outfit."
+            ],
+            "Value":"bb3b.ini"
+         },
+		 {
+            "DisplayName":"Spring Cream (Brown eyes)",
+            "Description":[
+               "Spring Cream from Sonic Forces Speed Battle."
+            ],
+            "Value":"bb3c.ini"
+         },
+		 {
+            "DisplayName":"Spring Cream (Black eyes)",
+            "Description":[
+               "Spring Cream from Sonic Forces Speed Battle."
+            ],
+            "Value":"bb3d.ini"
+         }
+      ]
+   },
+   "IniFile":"mod.ini"
+}

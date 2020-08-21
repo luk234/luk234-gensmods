@@ -1,0 +1,54 @@
+{
+   "Groups":[
+      {
+         "Name":"CPKs",
+         "DisplayName":"Cream Generations",
+         "Elements":[
+            {
+               "Name":"disk\\bb2.cpk",
+               "Description":[
+                  "Select a model and eye color."
+               ],
+               "DisplayName":"Classic Cream Model Select",
+               "Type":"disk\\bb2.cpk",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":'bb2a.ini"\ndisk\\bb3.cpk="bb3a.ini'
+            }
+         ]
+      }
+   ],
+   "Enums":{
+      "disk\\bb2.cpk":[
+         {
+            "DisplayName":"Cream (Brown eyes)",
+            "Description":[
+               "Cream's original outfit."
+            ],
+            "Value":'bb2a.ini"\ndisk\\bb3.cpk="bb3a.ini'
+         },
+         {
+            "DisplayName":"Cream (Black eyes)",
+            "Description":[
+               "Cream's original outfit."
+            ],
+            "Value":'bb2b.ini"\ndisk\\bb3.cpk="bb3b.ini'
+         },
+		 {
+            "DisplayName":"Spring Cream (Brown eyes)",
+            "Description":[
+               "Spring Cream from Sonic Forces Speed Battle."
+            ],
+            "Value":'bb2c.ini"\ndisk\\bb3.cpk="bb3c.ini'
+         },
+		 {
+            "DisplayName":"Spring Cream (Black eyes)",
+            "Description":[
+               "Spring Cream from Sonic Forces Speed Battle."
+            ],
+            "Value":'bb2d.ini"\ndisk\\bb3.cpk="bb3d.ini'
+         }
+      ]
+   },
+   "IniFile":"mod.ini"
+}
