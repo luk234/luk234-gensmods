@@ -1,4 +1,9 @@
-## Cream over Modern Sonic RC1
+## Classic Cream over Modern Sonic FINAL
+
+-	Fixed up rig one final time.
+-	Fixed the blue aura when jumping.
+
+## Classic Cream over Modern Sonic RC1
 
 -	Added Spring Cream Model
 -	Fixed up hands rigging and other minor rig issues.
