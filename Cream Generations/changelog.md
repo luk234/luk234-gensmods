@@ -1,3 +1,12 @@
+## Cream Generations RC3
+
+-	Fixed Title Screen.
+-	Fixed Classic Cream's ears detaching (both models).
+-	Fixed Classic Cream board animation.
+-	Fixed Modern Cream low-res eye reflection.
+-	Fixed Modern Cream voice.
+-	Mod is now fully compatible with other mods.
+
 ## Cream Generations RC2
 
 -	Touched up Modern Cream model.
