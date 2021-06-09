@@ -1,3 +1,7 @@
+## Cream Generations RC3 hotfix
+
+-	Fixed an issue that would cause the mod to crash the game if "Load from Top to Bottom" wasn't selected on Hedgemod Manager (Thanks to WitheredAria from gamebanana for reporting the bug).
+
 ## Cream Generations RC3
 
 -	Fixed Title Screen.
